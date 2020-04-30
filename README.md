@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
 ## Demo
-(https://passwordgenerator-zeta.now.sh/)
+https://passwordgenerator-zeta.now.sh/
 
 ## Development server
 
